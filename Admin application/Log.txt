@@ -1,0 +1,4 @@
+admin application to agriculture officer to monitor this market.
+They can see who are registered in this application and who are all sellers among themselves and what are the product they
+sell what is quantity,price of a product. Agriculture officer directly contact the seller 
+via mobile number.
